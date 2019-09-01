@@ -34,7 +34,7 @@
 
   "applications": {
     "gecko": {
-      "id": "addon@example.com"
+      "id": "github-hide-notifications@janpiotrowski.de"
     }
   }
 }
